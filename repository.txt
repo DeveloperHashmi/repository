@@ -1,0 +1,22 @@
+Github Session :
+
+Basic Command : 
+    - Creating Repository
+    - Cloning Repository
+    - Creating Branch
+    - Checking to Branch
+
+- Cloning Repository
+    - git clone --url
+- Cloning Repository with specific branch
+    - git clone --url -b -branch_name
+- Checking to any branch
+    - git checkout --branch_name
+- Get Latest code in the current branch
+    - git pull staging
+- Then checkout to Master
+    - git checkout master
+- Then merge the staging to the master
+    - git merge staging
+- Then push code to the master
+    - git push origin master
